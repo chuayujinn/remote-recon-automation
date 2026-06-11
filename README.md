@@ -2,7 +2,7 @@
 
 A Bash automation toolkit that connects to a remote Linux server over SSH, performs reconnaissance and a WHOIS lookup while routing local traffic through Tor for anonymity, captures the resulting network traffic, retrieves the evidence files, and produces a full audit log of every action taken.
 
-Built as part of the **Cybersecurity Career Kickstart+ (CFCI) programme, Ngee Ann Polytechnic**.
+
 
 ---
 
